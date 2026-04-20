@@ -28,6 +28,18 @@ The objective is to clear as many numbers as possible from a 5x10 grid filled wi
   - Validates user input to ensure only existing dice are selected.
   - Prevents crashes from invalid characters or mathematical mismatches.
 
+## 📸 Screenshots
+
+### Difficulty Selection (Tkinter GUI)
+![Difficulty Menu](assets/tkinter.png)
+
+### Gameplay (Terminal Interface)
+![Terminal Gameplay](assets/start_game.png)
+
+### Progress & Scoring
+![Game Progress](assets/inGame.png)
+
+
 ## 📊 Scoring Table
 
 | Dice Used | Points |
